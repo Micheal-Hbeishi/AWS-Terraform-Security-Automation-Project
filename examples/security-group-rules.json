@@ -1,0 +1,5 @@
+[
+  {"SecurityGroupRuleId":"sgr-demo-ssh","IsEgress":false,"IpProtocol":"tcp","FromPort":22,"ToPort":22,"CidrIpv4":"0.0.0.0/0"},
+  {"SecurityGroupRuleId":"sgr-demo-https","IsEgress":false,"IpProtocol":"tcp","FromPort":443,"ToPort":443,"CidrIpv4":"0.0.0.0/0"},
+  {"SecurityGroupRuleId":"sgr-demo-rdp","IsEgress":false,"IpProtocol":"tcp","FromPort":3389,"ToPort":3389,"CidrIpv6":"::/0"}
+]

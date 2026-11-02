@@ -1,0 +1,4 @@
+aws_region         = "ca-central-1"
+project_name       = "terraform-security-lab"
+enable_remediation = false
+# notification_email = "you@example.com"
